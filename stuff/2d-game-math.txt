@@ -1,0 +1,71 @@
+Vectors: Fundamental for representing positions, directions, velocities, and forces in 2D space.
+
+Vectors Operations:
+
+Addition
+Subtraction
+Scalar multiplication
+Dot product
+Cross product (less common in 2D)
+Matrices: Used for transformations such as translation, rotation, scaling, and shearing.
+
+Matrix Operations:
+
+Multiplication
+Inverse
+Coordinate Systems: Understanding different coordinate systems (e.g., Cartesian, Polar) and conversions between them.
+
+Trigonometry: Essential for calculating angles and distances in 2D space.
+
+Sine, cosine, tangent functions
+Inverse trigonometric functions
+Geometry:
+
+Lines and line equations (slope-intercept form, point-slope form)
+Circles and circle equations (e.g., radius, diameter)
+Collision detection algorithms (bounding boxes, circles, polygons)
+Raycasting
+Interpolation: Linear and cubic interpolation for smooth movement and animation.
+
+Kinematics: Applying physics principles to calculate motion, velocity, acceleration, etc.
+
+Collision Detection:
+
+AABB (Axis-Aligned Bounding Box)
+SAT (Separating Axis Theorem)
+Circle-circle collision
+Circle-line collision
+Circle-rectangle collision
+Point-in-polygon
+Collision Response: Handling collisions by resolving overlaps and adjusting velocities.
+
+Bezier Curves: Used for creating smooth curves and paths.
+
+Pathfinding Algorithms: A* (A-star), Dijkstra's algorithm, etc., for navigating entities through the game world.
+
+Random Numbers: Generating random numbers for procedural generation, random events, etc.
+
+Transformations:
+
+Translation
+Rotation
+Scaling
+Screen Space and World Space Transformations: Converting coordinates from screen space to world space and vice versa.
+
+Projection: Orthographic and perspective projection for rendering scenes.
+
+Rasterization: Converting geometric shapes into pixels for rendering.
+
+Coordinate Systems Transformations: Converting between different coordinate systems (e.g., local space, world space, screen space).
+
+Easing Functions: Used for creating smooth transitions in animations and movement.
+
+Game Physics: Basic physics concepts like gravity, friction, and momentum.
+
+Integer Math: Efficiently working with integers for performance optimization, especially in older or low-powered systems.
+
+Number Systems: Understanding binary, hexadecimal, and octal systems for bitwise operations and optimization.
+
+Algorithm Optimization: Efficient algorithms for tasks like collision detection, pathfinding, etc., to ensure smooth gameplay performance.
+
+Data Structures: Understanding data structures like arrays, linked lists, trees, and graphs for efficient game development.
